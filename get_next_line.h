@@ -29,8 +29,6 @@ char	*ft_linejoin(char *full);
 char	*ft_substr(char *full, int start, int len);
 char	*ft_strchr(char *full, char c);
 char	*ft_linefree(char *line);
-char	*ft_bufffree(char *buff);
 void	ft_bzero(void *s, size_t n);
-int     ft_lfc(char *str, char c);
 
 #endif
